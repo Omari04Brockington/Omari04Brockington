@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for creating innovative solutions to complex problems. I enjoy working with a variety of programming languages and technologies, and I'm always eager to learn and explore new areas in the field of software development.
+I'm a passionate Data Scientist who loves analyzing complex datasets to uncover valuable insights. I enjoy working with various programming languages and technologies, and I'm always eager to learn and explore new areas in Data Science. 
 
-- 🌱 I’m currently learning **Rust** and **Kubernetes**
-- 💬 Ask me about **Python**, **JavaScript**, and **DevOps**
-- 📫 How to reach me: [omari.brockington@example.com](mailto:omari.brockington@example.com)
-- ⚡ Fun fact: I love hiking and photography!
+- 🌱 I’m currently learning **Python** and **R**
+- 💬 Ask me about **Python**, **SQL**, and **R**
+- 📫 How to reach me: [omari.brockington@pace.edu](mailto:omari.brockington@pace.edu)
+- ⚡ Fun fact: I love exercising and drawing!
 
 ## Technologies & Tools
 
@@ -17,11 +17,8 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## GitHub Stats
 
-![Omari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omari04Brockington&show_icons=true&theme=radical)
 
 ## Projects
 
@@ -37,4 +34,14 @@ A set of scripts and tools for automating DevOps tasks with Docker and Kubernete
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/omari-brockington)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/OmariBrockington)
+
+
+[Windows](www.microsoft.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="200">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="200">
+  <img alt="" src="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="100">
+</picture>
+
+
