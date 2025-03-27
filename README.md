@@ -22,21 +22,15 @@ I'm a passionate Data Scientist who loves analyzing complex datasets to uncover 
 
 ## Projects
 
-### [Project 1: Awesome Web App](https://github.com/Omari04Brockington/awesome-web-app)
-A full-stack web application built with React and Node.js.
+### [Project 1: Divorce Research Paper](https://github.com/Omari04Brockington/divorce-research-paper)
+A research project that analyzes the post-divorce income & wealth trajectories of men & women.
 
-### [Project 2: Data Analysis Tool](https://github.com/Omari04Brockington/data-analysis-tool)
-A Python tool for data analysis and visualization using Pandas and Matplotlib.
-
-### [Project 3: DevOps Automation](https://github.com/Omari04Brockington/devops-automation)
-A set of scripts and tools for automating DevOps tasks with Docker and Kubernetes.
+### [Project 2: Housing Regression Model](https://github.com/Omari04Brockington/housing-regression-model)
+A housing project using a regression model to predict housing prices
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/omari-brockington)
-
-
-[Windows](www.microsoft.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="200">
