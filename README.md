@@ -13,7 +13,7 @@ I'm a passionate Data Scientist who loves analyzing complex datasets to uncover 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-sql-333333?style=flat&logo=sql)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 
