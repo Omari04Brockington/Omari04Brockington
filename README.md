@@ -1,4 +1,4 @@
-<img src="(https://github.com/user-attachments/assets/8d2ff077-941b-4846-8d43-19a605fcf137" width="48">
+<img src="(https://github.com/user-attachments/assets/8d2ff077-941b-4846-8d43-19a605fcf137" width="96">
 
 
 # Hi there, I'm Omari! 👋
