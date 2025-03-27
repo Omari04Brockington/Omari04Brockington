@@ -1,4 +1,4 @@
-![Headshot_PwC](https://github.com/user-attachments/assets/8d2ff077-941b-4846-8d43-19a605fcf137)
+![Headshot_PwC](https://github.com/user-attachments/assets/8d2ff077-941b-4846-8d43-19a605fcf137 {width=40px height=400px})
 
 
 # Hi there, I'm Omari! 👋
