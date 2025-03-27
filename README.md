@@ -1,3 +1,6 @@
+![Headshot_PwC](https://github.com/user-attachments/assets/8d2ff077-941b-4846-8d43-19a605fcf137)
+
+
 # Hi there, I'm Omari! 👋
 
 ## About Me
@@ -31,11 +34,5 @@ A housing project using a regression model to predict housing prices
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/omari-brockington)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="200">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="200">
-  <img alt="" src="https://github.com/user-attachments/assets/58e63a7b-48b3-43e8-92a3-78247efae777" width="100">
-</picture>
 
 
