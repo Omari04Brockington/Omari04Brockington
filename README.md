@@ -1,5 +1,3 @@
-<a href="url"><img src="https://github.com/user-attachments/assets/8d2ff077-941b-4846-8d43-19a605fcf137" align="left" height="200" width="200" ></a>
-
 # Hi there, I'm Omari! 👋
 
 ## About Me
