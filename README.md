@@ -26,6 +26,9 @@ A research project that analyzes the post-divorce income & wealth trajectories o
 ### [Project 2: Housing Regression Model](https://github.com/Omari04Brockington/housing-regression-model)
 A housing project using a regression model to predict housing prices
 
+### [Project 3: AWS Flask Projects](https://github.com/Omari04Brockington/AWS-Flask-projects)
+A repository containing different web applications built using Flask and AWS
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/omari-brockington)
