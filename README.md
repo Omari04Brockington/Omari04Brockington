@@ -6,7 +6,7 @@ I'm a passionate Data Scientist who loves analyzing complex datasets to uncover 
 
 - 🌱 I’m currently learning **Python** and **R**
 - 💬 Ask me about **Python**, **SQL**, and **R**
-- 📫 How to reach me: [omari.brockington@pace.edu](mailto:omari.brockington@pace.edu)
+- 📫 How to reach me: [omari.n.brockington@pace.edu](mailto:omari.n.brockington@pace.edu)
 - ⚡ Fun fact: I love exercising and drawing!
 
 ## Technologies & Tools
